@@ -1,6 +1,6 @@
 # Agent Instructions
 
-This repo documents what's installed on this Pi, where, and why.
+This repo documents what's installed on this system, where, and why.
 
 ## Files
 - `INVENTORY.md` — current state only. What exists, where, why.
