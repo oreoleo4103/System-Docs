@@ -5,6 +5,7 @@ This repo documents what's installed on this system, where, and why.
 ## Files
 - `INVENTORY.md` — current state only. What exists, where, why.
 - `CHANGELOG.md` — dated timeline of changes. Never mix the two.
+- This folder structure is supposed to be in `./system-docs/`
 
 ## Rules
 - Update `INVENTORY.md` whenever software is installed, changed, or removed.
