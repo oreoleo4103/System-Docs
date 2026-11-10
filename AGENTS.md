@@ -8,6 +8,7 @@ This repo documents what's installed on this system, where, and why.
 - This folder structure is supposed to be in `./system-docs/`
 
 ## Rules
+- MOST IMPORTANT RULE: NEVER USE GIT. THIS IS A GIT REPO JUST TO PULL THE FOLDER STRUCTURE AND AGENTS.md, YOU WILL NEVER ADD ANYTHING TO GIT OR USE THE GIT COMMAND IN ANY OTHER WAY. THIS IS STRICTLY LOCAL.
 - Update `INVENTORY.md` whenever software is installed, changed, or removed.
 - Add a dated entry to `CHANGELOG.md` for the same event.
 - No timestamps in `INVENTORY.md`.
@@ -20,6 +21,7 @@ This repo documents what's installed on this system, where, and why.
   software as a subsection. Never remove an existing section. Only add a new
   section when a piece of software genuinely does not fit any existing one —
   this should be a rare exception, not a fallback. Keep `INVENTORY.md` brief.
+- If the `INVENTORY.md` and/or the `CHANGELOG.md` file is/are missing, create them.
 
 ## Formatting
 - Dates are ISO 8601 (`YYYY-MM-DD`), used as `###` headings in `CHANGELOG.md`.
